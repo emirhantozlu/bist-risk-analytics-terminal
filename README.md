@@ -1,4 +1,6 @@
-# 📈 BIST Risk ve Trend Analitik Paneli (SVR-X)
+# 📈 BIST Risk ve Trend Analitik Paneli
+
+![BIST SVR-X Terminal Ekran Görüntüsü](terminal_preview.png)
 
 Borsa İstanbul zaman serilerindeki yüksek rastlantısallığı ve gürültüyü temizleyerek yatırım analistlerine istatistiksel avantaj sağlayan, Yapay Zeka ve Doğal Dil İşleme (NLP) tabanlı hibrit bir **Karar Destek Sistemidir (Decision Support System)**.
 
