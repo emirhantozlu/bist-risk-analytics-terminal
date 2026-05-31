@@ -1,0 +1,26 @@
+# --- Yapay Zeka & Model Önbellekleri ---
+saved_models/
+*.joblib
+*.pkl
+*.pickle
+
+# --- Python Geçici Dosyaları ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Streamlit ve Ortam Ayarları ---
+.streamlit/
+.env
+vven/
+env/
+venv/
+
+# --- Sistem ve IDE Dosyaları ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
